@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rappels on Linguistique</title>
+    <title>Accueil on Linguistique</title>
     <link>https://nolwenndeumie.github.io/</link>
-    <description>Recent content in Rappels on Linguistique</description>
+    <description>Recent content in Accueil on Linguistique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 11 Sep 2019 10:50:57 +0200</lastBuildDate>
     
 	<atom:link href="https://nolwenndeumie.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://nolwenndeumie.github.io/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/introduction/</guid>
+      <description>Rappel de quelques notions essentielles.
+Phrase et énoncé La phrase peut être une simple abstraction, tandis que l’énoncé, composé d’un ou plusieurs segments correspondant à des phrases, est un échantillon “réel” de langage. Afin de comprendre la grammaire, il est essentiel de tenir compte des conditions d’énonciation, notamment du contexte/situation et du rôle de l’énonciateur.
+Concept d’énonciateur L’énonciateur n’est pas forcément la personne qui parle (aka le locuteur). Un énoncé n’est pas forcément parlé : il peut être écrit ou même pensé.</description>
+    </item>
+    
+    <item>
+      <title>Le groupe verbal</title>
+      <link>https://nolwenndeumie.github.io/le-groupe-verbal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/</guid>
+      <description>Auxiliaires et verbes Définition Il y a deux catégories d’éléments verbaux qui peuvent entrer dans la composition d’un GV : les auxiliaires et les verbes.
+Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verbes n’ont pas.
+ Leur négation se forme par le simple ajout de not, contracté en n’t dans isn’t, can’t, etc. Ils permettent le passage de la forme déclarative à la forme interrogative par simple inversion avec le groupe sujet : Your brother can swim.</description>
+    </item>
     
   </channel>
 </rss>
