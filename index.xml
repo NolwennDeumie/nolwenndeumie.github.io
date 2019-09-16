@@ -39,8 +39,7 @@ Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verb
       
       <guid>https://nolwenndeumie.github.io/introduction/</guid>
       <description>Rappel de quelques notions essentielles.
-Phrase et énoncé La phrase peut être une simple abstraction, tandis que l’énoncé, composé d’un ou plusieurs segments correspondant à des phrases, est un échantillon “réel” de langage. Afin de comprendre la grammaire, il est essentiel de tenir compte des conditions d’énonciation, notamment du contexte/situation et du rôle de l’énonciateur.
-Concept d’énonciateur L’énonciateur n’est pas forcément la personne qui parle (aka le locuteur). Un énoncé n’est pas forcément parlé : il peut être écrit ou même pensé.</description>
+Phrase et énoncé La phrase peut être une simple abstraction. Elle ne définit qu’un assemblage de mots selon les règles de la syntaxe, en dehors de tout discours. L’énoncé quant à lui est ce que produit le locuteur et ce qu’entend l’auditeur dans une situation donnée : la situation d’énonciation. Il est composé d’un ou plusieurs segments correspondant à des phrases et est un échantillon “réel” de langage, c&amp;rsquo;est le porteur d&amp;rsquo;un message.</description>
     </item>
     
   </channel>
