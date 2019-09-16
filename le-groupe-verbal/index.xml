@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Linguistique</title>
-    <link>https://nolwenndeumie.github.io/</link>
-    <description>Recent content in Accueil on Linguistique</description>
+    <title>Le-groupe-verbals on Linguistique</title>
+    <link>https://nolwenndeumie.github.io/le-groupe-verbal/</link>
+    <description>Recent content in Le-groupe-verbals on Linguistique</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
-	<atom:link href="https://nolwenndeumie.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nolwenndeumie.github.io/le-groupe-verbal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,17 +30,6 @@ Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verb
       <description>Be et have, auxiliaires ou verbes ? Be et have sont polyvalents, ils possèdent tantôt les caractéristiques syntaxiques des auxiliaires (négation et interrogation directes, i.e. sans do), tantôt celles des verbes.
  Be a le plus souvent les caractéristiques des auxiliaires :   He is reading. He is not reading. Is he reading ? / He is English. He is not English. Is he English ?
  Cependant, dans He is English, be est en même temps un verbe, étant donné qu&amp;rsquo;il est le seul élément de nature verbale de la proposition.</description>
-    </item>
-    
-    <item>
-      <title>Introduction</title>
-      <link>https://nolwenndeumie.github.io/introduction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nolwenndeumie.github.io/introduction/</guid>
-      <description>Rappel de quelques notions essentielles.
-Phrase et énoncé La phrase peut être une simple abstraction, tandis que l’énoncé, composé d’un ou plusieurs segments correspondant à des phrases, est un échantillon “réel” de langage. Afin de comprendre la grammaire, il est essentiel de tenir compte des conditions d’énonciation, notamment du contexte/situation et du rôle de l’énonciateur.
-Concept d’énonciateur L’énonciateur n’est pas forcément la personne qui parle (aka le locuteur). Un énoncé n’est pas forcément parlé : il peut être écrit ou même pensé.</description>
     </item>
     
   </channel>

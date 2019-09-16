@@ -6,6 +6,14 @@
   </url>
   
   <url>
+    <loc>https://nolwenndeumie.github.io/le-groupe-verbal/auxiliaires-et-verbes/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/le-groupe-verbal/be-have-et-get/</loc>
+  </url>
+  
+  <url>
     <loc>https://nolwenndeumie.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -15,11 +23,8 @@
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/le-groupe-nominal/</loc>
-  </url>
-  
-  <url>
     <loc>https://nolwenndeumie.github.io/le-groupe-verbal/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
