@@ -17,12 +17,12 @@
       
       <guid>https://nolwenndeumie.github.io/le-groupe-verbal/auxiliaires-et-verbes/</guid>
       <description>Définition Il y a deux catégories d’éléments verbaux qui peuvent entrer dans la composition d’un GV : les auxiliaires et les verbes.
-Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verbes n’ont pas.
- Leur négation se forme par le simple ajout de not, contracté en n’t dans isn’t, can’t, etc. Ils permettent le passage de la forme déclarative à la forme interrogative par simple inversion avec le groupe sujet : Your brother can swim.</description>
+Les auxiliaires se définissent par deux caractéristiques syntaxiques que les verbes n’ont pas.
+ Leur négation se forme par l&amp;rsquo;ajout de not, contracté en n’t dans isn’t, can’t, etc. Ils permettent le passage de la forme déclarative à la forme interrogative par inversion avec le groupe sujet : Your brother can swim.</description>
     </item>
     
     <item>
-      <title>BE, HAVE et GET</title>
+      <title>Be, have et get</title>
       <link>https://nolwenndeumie.github.io/le-groupe-verbal/be-have-et-get/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -33,6 +33,18 @@ Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verb
     </item>
     
     <item>
+      <title>Discours rapporté</title>
+      <link>https://nolwenndeumie.github.io/le-groupe-verbal/discours-rapport%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/discours-rapport%C3%A9/</guid>
+      <description>Le discours direct et le discours indirect (ou style direct / indirect) sont deux variétés du discours rapporté :
+ Bert said, &amp;ldquo;I&amp;rsquo;m listening.&amp;rdquo;
+Bert said that he was listening.
+ Le discours rapporté peut être du discours au sens étroit : il consiste alors en des paroles que l&amp;rsquo;on rapporte. Mais il peut également consister en des pensées, sentiments, impressions, opinions, etc. Dans ce dernier cas, le discours est généralement rapporté par l&amp;rsquo;intermédiaire d&amp;rsquo;un verbe ou d&amp;rsquo;une expression du type think, know, feel.</description>
+    </item>
+    
+    <item>
       <title>Introduction</title>
       <link>https://nolwenndeumie.github.io/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -40,6 +52,26 @@ Les auxiliaires se définissent par 2 caractéristiques syntaxiques que les verb
       <guid>https://nolwenndeumie.github.io/introduction/</guid>
       <description>Rappel de quelques notions essentielles.
 Phrase et énoncé La phrase peut être une simple abstraction. Elle ne définit qu’un assemblage de mots selon les règles de la syntaxe, en dehors de tout discours. L’énoncé quant à lui est ce que produit le locuteur et ce qu’entend l’auditeur dans une situation donnée : la situation d’énonciation. Il est composé d’un ou plusieurs segments correspondant à des phrases et est un échantillon “réel” de langage, c&amp;rsquo;est le porteur d&amp;rsquo;un message.</description>
+    </item>
+    
+    <item>
+      <title>Présent</title>
+      <link>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9sent/</guid>
+      <description>Il n&amp;rsquo;existe en anglais que deux temps grammaticaux, ou tenses : le présent et le prétérit. Nous verrons ici le présent.
+Comme evoqué dans les chapitres précédents, l&amp;rsquo;élément présent ou prétérit est toujours, dans un groupe verbal, porté par le premier terme : verbe dans le cas des formes simples, auxiliaire dans les autres. Les éléments présent et prétérit ont toujours le même sens fondamental, qu&amp;rsquo;ils soient portés par un verbe ou un auxiliaire.</description>
+    </item>
+    
+    <item>
+      <title>Prétérit</title>
+      <link>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</guid>
+      <description>Forme régulière du prétérit simple I / he / we worked (base verbale + terminaison -ed)
+Prononcer le -ed du prétérit    /ɪd/ ou /əd/ (selon variété d&amp;rsquo;anglais) /t/ /d/     après les sons /t/ ou /d/ après les consonnes sourdes /p/ /k/ /f/ etc. après les consonnes sonores /b/ /g/ /v/ etc. et après les voyelles    Le choix entre /t/ et /d/ dépend de la facilité de prononciation.</description>
     </item>
     
   </channel>
