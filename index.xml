@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Accueil on Linguistique</title>
+    <title>Accueil on Révisions LLCE</title>
     <link>https://nolwenndeumie.github.io/</link>
-    <description>Recent content in Accueil on Linguistique</description>
+    <description>Recent content in Accueil on Révisions LLCE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     
@@ -12,10 +12,10 @@
     
     <item>
       <title>Auxiliaires et verbes</title>
-      <link>https://nolwenndeumie.github.io/le-groupe-verbal/auxiliaires-et-verbes/</link>
+      <link>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/auxiliaires-et-verbes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/auxiliaires-et-verbes/</guid>
+      <guid>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/auxiliaires-et-verbes/</guid>
       <description>Définition Il y a deux catégories d’éléments verbaux qui peuvent entrer dans la composition d’un GV : les auxiliaires et les verbes.
 Les auxiliaires se définissent par deux caractéristiques syntaxiques que les verbes n’ont pas.
  Leur négation se forme par l&amp;rsquo;ajout de not, contracté en n’t dans isn’t, can’t, etc. Ils permettent le passage de la forme déclarative à la forme interrogative par inversion avec le groupe sujet : Your brother can swim.</description>
@@ -23,21 +23,50 @@ Les auxiliaires se définissent par deux caractéristiques syntaxiques que les v
     
     <item>
       <title>Be, have et get</title>
-      <link>https://nolwenndeumie.github.io/le-groupe-verbal/be-have-et-get/</link>
+      <link>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/be-have-et-get/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/be-have-et-get/</guid>
+      <guid>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/be-have-et-get/</guid>
       <description>Be et have, auxiliaires ou verbes ? Be et have sont polyvalents, ils possèdent tantôt les caractéristiques syntaxiques des auxiliaires (négation et interrogation directes, i.e. sans do), tantôt celles des verbes.
  Be a le plus souvent les caractéristiques des auxiliaires :   He is reading. He is not reading. Is he reading ? / He is English. He is not English. Is he English ?
  Cependant, dans He is English, be est en même temps un verbe, étant donné qu&amp;rsquo;il est le seul élément de nature verbale de la proposition.</description>
     </item>
     
     <item>
-      <title>Discours rapporté</title>
-      <link>https://nolwenndeumie.github.io/le-groupe-verbal/discours-rapport%C3%A9/</link>
+      <title>Boston campaign</title>
+      <link>https://nolwenndeumie.github.io/civilisation/boston-campaign/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/discours-rapport%C3%A9/</guid>
+      <guid>https://nolwenndeumie.github.io/civilisation/boston-campaign/</guid>
+      <description>It is often said that the American war of Independence began with the British on April 19, 1775, during Boston siege (battles of Concord and Lexington) but the first event that triggered the popular reaction to english invasion started with what’s known as the Powder Alarm.
+On September 1st, 1774, british soldiers confiscated powder supplies and weapons from the militia during a surprise action near Boston. This expedition alarmed the entire country and american patriots ran into action, persuaded war had begun.</description>
+    </item>
+    
+    <item>
+      <title>Colonial relationships with Great Britain</title>
+      <link>https://nolwenndeumie.github.io/civilisation/colonial-relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/civilisation/colonial-relationships/</guid>
+      <description>British imperialism After the Seven Years’ war, British authorities started to think about their empire. Between 1770 and 1782, the Tories in power dreamed of strengthening colonial domination and centralisation. Advocating protectionism, they wanted to strictly apply a mercantilist policy by reinforcing commercial monopoly, encouraging maritim companies and fighting against contraband traffic (= commerce de contrebande). Tories had to face the whigs’ opposition, who were in favor of free trade.</description>
+    </item>
+    
+    <item>
+      <title>Context: the Thirteen British Colonies around 1775</title>
+      <link>https://nolwenndeumie.github.io/civilisation/context/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/civilisation/context/</guid>
+      <description>Geography The colonies were created between early 17th century and the first third of the 18th century on hundreds of kilometers along the Atlantic coast. Communication between them were often slow and complicated: the existing roads were in a pretty bad shape and there were only few bridges.
+Population Around 1770, the Thirteen Colonies’ total population was approximately 2.2 million inhabitants. Since their creation, the colonies had a strong demographic growth thanks to immigration but also a high birth rate.</description>
+    </item>
+    
+    <item>
+      <title>Discours rapporté</title>
+      <link>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/discours-rapport%C3%A9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/discours-rapport%C3%A9/</guid>
       <description>Le discours direct et le discours indirect (ou style direct / indirect) sont deux variétés du discours rapporté :
  Bert said, &amp;ldquo;I&amp;rsquo;m listening.&amp;rdquo;
 Bert said that he was listening.
@@ -46,32 +75,70 @@ Bert said that he was listening.
     
     <item>
       <title>Introduction</title>
-      <link>https://nolwenndeumie.github.io/introduction/</link>
+      <link>https://nolwenndeumie.github.io/civilisation/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/introduction/</guid>
+      <guid>https://nolwenndeumie.github.io/civilisation/introduction/</guid>
+      <description>The American Revolution is a time of political changes that occurred after 1763 in the Thirteen Colonies of North America. It led to the American war of Independence against the British between 1775 and 1783, resulting in the independence from Great Britain and the establishment of the United States of America.
+In order to defray the costs of the Seven Years’ War (1756-1763, a global conflict that involved every European great power of the time and split the continent into two coalitions), Great Britain taxed its American colonies without them being consulted.</description>
+    </item>
+    
+    <item>
+      <title>Introduction</title>
+      <link>https://nolwenndeumie.github.io/linguistique/introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/linguistique/introduction/</guid>
       <description>Rappel de quelques notions essentielles.
 Phrase et énoncé La phrase peut être une simple abstraction. Elle ne définit qu’un assemblage de mots selon les règles de la syntaxe, en dehors de tout discours. L’énoncé quant à lui est ce que produit le locuteur et ce qu’entend l’auditeur dans une situation donnée : la situation d’énonciation. Il est composé d’un ou plusieurs segments correspondant à des phrases et est un échantillon “réel” de langage, c&amp;rsquo;est le porteur d&amp;rsquo;un message.</description>
     </item>
     
     <item>
-      <title>Présent</title>
-      <link>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9sent/</link>
+      <title>Portail de la civilisation</title>
+      <link>https://nolwenndeumie.github.io/civilisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9sent/</guid>
+      <guid>https://nolwenndeumie.github.io/civilisation/</guid>
+      <description> The American Revolution  Introduction Context: the Thirteen British Colonies around 1775 Colonial relationships with Great Britain Rise of opposition Boston campaign   </description>
+    </item>
+    
+    <item>
+      <title>Portail de la linguistique</title>
+      <link>https://nolwenndeumie.github.io/linguistique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/linguistique/</guid>
+      <description>Introduction Le groupe verbal  Auxiliaires et verbes Be, have et get Présent Prétérit Discours rapporté   Le contenu de ce portail est fortement inspiré de la Grammaire explicative de l&amp;rsquo;anglais, par Larreya et Rivière. Certains passages sont allégés et retravaillés.</description>
+    </item>
+    
+    <item>
+      <title>Présent</title>
+      <link>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/pr%C3%A9sent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/pr%C3%A9sent/</guid>
       <description>Il n&amp;rsquo;existe en anglais que deux temps grammaticaux, ou tenses : le présent et le prétérit. Nous verrons ici le présent.
 Comme evoqué dans les chapitres précédents, l&amp;rsquo;élément présent ou prétérit est toujours, dans un groupe verbal, porté par le premier terme : verbe dans le cas des formes simples, auxiliaire dans les autres. Les éléments présent et prétérit ont toujours le même sens fondamental, qu&amp;rsquo;ils soient portés par un verbe ou un auxiliaire.</description>
     </item>
     
     <item>
       <title>Prétérit</title>
-      <link>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</link>
+      <link>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nolwenndeumie.github.io/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</guid>
+      <guid>https://nolwenndeumie.github.io/linguistique/le-groupe-verbal/pr%C3%A9t%C3%A9rit/</guid>
       <description>Forme régulière du prétérit simple I / he / we worked (base verbale + terminaison -ed)
 Prononcer le -ed du prétérit    /ɪd/ ou /əd/ (selon variété d&amp;rsquo;anglais) /t/ /d/     après les sons /t/ ou /d/ après les consonnes sourdes /p/ /k/ /f/ etc. après les consonnes sonores /b/ /g/ /v/ etc. et après les voyelles    Le choix entre /t/ et /d/ dépend de la facilité de prononciation.</description>
+    </item>
+    
+    <item>
+      <title>Rise of opposition</title>
+      <link>https://nolwenndeumie.github.io/civilisation/rise-of-opposition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nolwenndeumie.github.io/civilisation/rise-of-opposition/</guid>
+      <description>Years 1763-1774 saw the rise of colonial opposition in response to British claims, marked by a series of economical laws, quickly repealed by central power.
+The Seven Years’ War consequences The Seven Years’ War (1756-1763) was a conflict between European powers and completely emptied the Crown’s cashbox. After the war, the British debt was up to £317.000.000. Lord Jeffery Amherst, chief commander of the royal forces in North America, estimated the needed number of soldiers in order to maintain peace to 10.</description>
     </item>
     
   </channel>
