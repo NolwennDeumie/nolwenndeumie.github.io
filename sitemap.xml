@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>https://nolwenndeumie.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/after-revolution/</loc>
   </url>
   
   <url>
@@ -14,20 +17,23 @@
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/civilisation/boston-campaign/</loc>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/boston-campaign/</loc>
   </url>
   
   <url>
     <loc>https://nolwenndeumie.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/civilisation/colonial-relationships/</loc>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/colonial-relationships/</loc>
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/civilisation/context/</loc>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/confederation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/context/</loc>
   </url>
   
   <url>
@@ -35,7 +41,7 @@
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/civilisation/introduction/</loc>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/introduction/</loc>
   </url>
   
   <url>
@@ -59,12 +65,23 @@
   </url>
   
   <url>
-    <loc>https://nolwenndeumie.github.io/civilisation/rise-of-opposition/</loc>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/rise-of-opposition/</loc>
   </url>
   
   <url>
     <loc>https://nolwenndeumie.github.io/tags/</loc>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/the-american-war-of-independence/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/federalist-period/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nolwenndeumie.github.io/civilisation/the-american-revolution/figures-of-revolution/</loc>
   </url>
   
 </urlset>
